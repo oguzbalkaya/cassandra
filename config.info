@@ -1,0 +1,8 @@
+cassandra_conf=main cassandra configuration file path,0
+cassandra_logback=logback.xml file path,0
+cassandra_topology_properties=cassandra-topology.properties file path,0
+pid_file=Cassandra pid file,0
+start_command=Start command,0
+stop_command=Stop command,0
+restart_command=Restart command,0
+cql_command=Executable CQL command,0

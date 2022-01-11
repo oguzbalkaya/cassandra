@@ -1,0 +1,8 @@
+cassandra_conf=Cassandra ana konfigürasyon dosyası,0
+cassandra_logback=logback.xml dosyasının konumu,0
+cassandra_topology_properties=cassandra-topology.properties dosyasının konumu,0
+pid_file=Cassandra pid dosya konumu,0
+start_command=Başlatma komutu,0
+stop_command=Durdurma komutu,0
+restart_command=Yeniden başlatma komutu,0
+cql_command=Çalıştırılabilir CQL Komutu,0

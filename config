@@ -1,0 +1,8 @@
+cassandra_conf=/etc/cassandra/cassandra.yaml
+cassandra_logback=/etc/cassandra/logback.xml
+cassandra_topology_properties=/etc/cassandra/cassandra-topology.properties
+pid_file=/var/run/cassandra/cassandra.pid
+start_command=systemctl start cassandra
+stop_command=systemctl stop cassandra
+restart_command=systemctl restart cassandra
+cql_command=cqlsh
