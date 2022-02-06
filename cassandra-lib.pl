@@ -476,7 +476,7 @@ sub createudt_list
 		]);
 	for(my $i=0;$i<$countoftypes;$i++){
 		print &ui_columns_row(
-			[ &ui_textbox("typename_$i",""), &ui_select("datatype_$i","ascii", \@datatypes) ]
+			[ &ui_textbox("typename_$i",""), &ui_datatype_selector($keyspace,$i) ]
 		);
 	}
 
