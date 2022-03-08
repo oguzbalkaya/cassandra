@@ -1,5 +1,5 @@
 #! /usr/bin/perl
-#start.cgi
+#reload.cgi
 #Retart the apache cassandra daemon
 
 require './cassandra-lib.pl';
