@@ -1,6 +1,6 @@
 #! /usr/bin/perl
 #reload.cgi
-#Retart the apache cassandra daemon
+#Restart the apache cassandra daemon
 
 require './cassandra-lib.pl';
 &ReadParse();
