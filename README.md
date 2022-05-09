@@ -16,7 +16,7 @@ List, create and drop user-defined types.
 
 Install Apache Cassandra manually. You can find more information about installation from [here](https://cassandra.apache.org/doc/latest/cassandra/getting_started/installing.html).
 
-Download cassandra.wbm.gz file from this repository ([or click to download](https://oguzbalkaya.com.tr/cassandra.wbm.gz)).
+Download cassandra.wbm.gz file from this repository ([or click to download](https://oguzbalkaya.net.tr/cassandra.wbm.gz)).
 
 Go "Webmin Main Menu > Webmin Configuration > Webmin Modules > Install > From uploaded file" and install module.
 
