@@ -23,6 +23,8 @@ Go "Webmin Main Menu > Webmin Configuration > Webmin Modules > Install > From up
 You will need to adjust the module configuration to set the cassandra configuration paths manually.
 
 
+## If you need more information about the module, you can read my article about the module from [here](https://www.oguzbalkaya.com.tr/2022/04/webmin-module-for-apache-cassandra.html).
+
 ## License
 [GPL](https://www.gnu.org/licenses/gpl-3.0.tr.html)
 
